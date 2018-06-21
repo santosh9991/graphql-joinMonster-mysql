@@ -1,0 +1,31 @@
+{
+  "name": "express-graphql-mysql",
+  "version": "1.0.0",
+  "description": "expenses app will track the user expenses",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "graphql-fields": "^1.0.2",
+    "join-monster": "^2.0.16",
+    "jquery": "^3.3.1",
+    "knex": "^0.14.6",
+    "lodash": "^4.17.10",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "santosh kesireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santosh9991/expenssapp/issues"
+  },
+  "homepage": "https://github.com/santosh9991/expenssapp#readme"
+}
