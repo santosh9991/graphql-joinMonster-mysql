@@ -13,7 +13,8 @@
     "knex": "^0.14.6",
     "lodash": "^4.17.10",
     "mysql2": "^1.5.3",
-    "sequelize": "^4.37.7"
+    "sequelize": "^4.37.7",
+    "sqlstring": "^2.3.1"
   },
   "devDependencies": {},
   "scripts": {
